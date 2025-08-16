@@ -1,0 +1,8 @@
+<svg width="512" height="256" viewBox="0 0 512 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="VA">
+  <rect width="100%" height="100%" fill="none"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Inter, Arial, Helvetica, sans-serif"
+        font-weight="800" font-size="192" fill="#ffffff" letter-spacing="8">
+    VA
+  </text>
+</svg>
