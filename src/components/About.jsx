@@ -64,9 +64,11 @@ const About = () => {
           
           <div className="about-visual">
             <div className="about-image">
-              <div className="image-placeholder">
-                <span>Vaishnav Ahire</span>
-              </div>
+              <img 
+                src="/my pic.jpg" 
+                alt="Vaishnav Ahire" 
+                className="profile-image"
+              />
             </div>
           </div>
         </div>
